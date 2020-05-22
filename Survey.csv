@@ -1,0 +1,58 @@
+gender,age,family size,mother's education,father's education,mother's job,father's job,travel time,study time(in hours),failures(past backlogs),extra paid classes for courses,extra_curriculum activities ,going out with friends(1-very low to 5- very high),health status(1-very bad to 5-excellent),average attendance(in percentage),interest in subjects(1-very low to 5-very high),difficulty level of subjects(1-very low to 5-very high),time spent on internet/social media,GPA(1st semester),GPA(2nd semester),GPA(3rd semester)
+Male,18,5,higher education,higher education,at home,other,> 1 hour,1,0,no,yes,2,3,90,4,3,<1 hour,7.41,8.14,8.38
+Male,19,5,higher education,secondary education,at home,other,30 min to 1 hour,2,,no,yes,4,4,75,3,3,1 to 5 hours,5.7,5.8,
+Male,19,5,5th to 9th grade,higher education,at home,other,> 1 hour,1,1,no,yes,1,3,82,3,4,1 to 5 hours,7.14,7.63,8.65
+Male,20,3,higher education,higher education,at home,other,30 min to 1 hour,2,0,no,yes,3,4,80,4,2,1 to 5 hours,,,8.19
+Male,19,4,5th to 9th grade,5th to 9th grade,at home,other,30 min to 1 hour,2,0,no,no,3,5,92,4,1,1 to 5 hours,7.52,8.5,9.15
+Male,19,4,higher education,secondary education,at home,other,> 1 hour,2,,no,yes,2,4,85,4,3,<1 hour,9.56,9.85,10
+Male,19,4,higher education,higher education,civil services,other,30 min to 1 hour,2,1,no,yes,3,5,80,4,3,1 to 5 hours,6.96,6.63,7.12
+Male,20,5,secondary education,secondary education,at home,other,30 min to 1 hour,10,0,yes,yes,1,4,80,3,3,1 to 5 hours,9.13,8.43,8.69
+Male,20,6,primary education (4th grade),none,at home,other,15 to 30 min,2,0,no,no,3,4,45,3,2,1 to 5 hours,6.74,7,7.65
+Male,19,5,5th to 9th grade,secondary education,at home,other,> 1 hour,2,0,no,no,3,5,85,4,3,<1 hour,7.37,7.93,8
+Male,19,4,higher education,higher education,at home,other,30 min to 1 hour,2,0,no,no,2,4,93,4,3,1 to 5 hours,8.81,8.81,8.35
+Male,19,6,5th to 9th grade,secondary education,at home,other,30 min to 1 hour,2,,no,yes,3,5,88,4,3,<1 hour,6.7,7,7.5
+Male,19,3,higher education,higher education,health care related,other,> 1 hour,2,,no,yes,1,2,72,3,3,<1 hour,6.2,6.3,5.8
+Female,19,4,higher education,higher education,at home,other,<15 min,2,2,no,yes,2,4,75,4,2,1 to 5 hours,5.61,6,
+Male,20,4,higher education,higher education,civil services,civil services,30 min to 1 hour,2,0,no,yes,3,2,85,4,3,1 to 5 hours,7.68,7.89,7.32
+Male,18,5,none,5th to 9th grade,other,civil services,> 1 hour,4,0,no,yes,3,5,92,3,3,<1 hour,6.22,6.56,7.15
+Male,19,5,secondary education,secondary education,at home,other,15 to 30 min,3,0,no,no,3,4,90,4,3,1 to 5 hours,6.85,7.26,8
+Male,19,5,higher education,higher education,health care related,,15 to 30 min,2,4,no,yes,3,4,62,5,3,1 to 5 hours,,4.96,
+Female,20,5,primary education (4th grade),secondary education,at home,other,<15 min,2,2,no,yes,3,3,43,3,3,1 to 5 hours,,,
+Male,19,4,5th to 9th grade,secondary education,at home,other,30 min to 1 hour,1,0,no,no,3,5,75,5,3,1 to 5 hours,3.45,3.66,3.3
+Female,20,4,5th to 9th grade,secondary education,at home,other,> 1 hour,2,1,no,no,3,2,70,3,3,<1 hour,5.9,6.3,
+Male,19,3,higher education,higher education,at home,other,> 1 hour,0.5,0,no,yes,5,3,85,2,3,<1 hour,8.5,8.55,8.65
+Male,20,3,higher education,higher education,at home,other,<15 min,3,3,yes,yes,5,3,75,4,5,1 to 5 hours,7.1,,
+Male,19,4,5th to 9th grade,secondary education,at home,other,> 1 hour,1,0,yes,yes,1,4.5,80,4,4,<1 hour,8.19,8.22,7.38
+Male,20,5,none,none,at home,,30 min to 1 hour,1,0,no,no,2,3,99,4,3,1 to 5 hours,8.81,9.85,9.85
+Female,19,4,higher education,higher education,at home,other,> 1 hour,1,4,no,no,3,3,68,3,3,1 to 5 hours,,5.9,
+Female,19,4,higher education,secondary education,other,other,30 min to 1 hour,1,0,no,no,3,4,86,4,3,1 to 5 hours,6.64,7.75,7.46
+Female,19,5,higher education,higher education,at home,other,30 min to 1 hour,4,0,yes,no,3,5,74,3,3,1 to 5 hours,,,7.5
+Male,19,3,higher education,higher education,at home,other,> 1 hour,2.5,0,no,no,3,5,90,4,4,<1 hour,7.96,9.15,9.15
+Male,19,5,higher education,higher education,at home,other,> 1 hour,2.5,0,no,no,3.5,4,78,4,4,1 to 5 hours,7.19,7.04,7.27
+Female,19,4,higher education,higher education,at home,other,30 min to 1 hour,3,0,no,yes,2,3,90,3,3,<1 hour,7.52,7.81,9.08
+Male,19,5,5th to 9th grade,5th to 9th grade,at home,other,> 1 hour,2,0,no,yes,3,4,90,4,3,<1 hour,6.41,7.33,7.38
+Male,20,3,higher education,higher education,health care related,health care related,15 to 30 min,3,2,no,no,4,3,65,3,4,1 to 5 hours,,,
+Male,18,5,higher education,higher education,at home,other,30 min to 1 hour,1.5,0,no,yes,3,4,90,3,3,1 to 5 hours,7.41,8.14,8.38
+Female,19,4,secondary education,higher education,at home,other,15 to 30 min,3,0,yes,no,1,5,68,4,3,1 to 5 hours,0,0,6.42
+Male,20,4,5th to 9th grade,secondary education,at home,other,30 min to 1 hour,2,,no,no,1,5,75,4,3,1 to 5 hours,,6,
+Male,19,4,5th to 9th grade,higher education,at home,other,15 to 30 min,0,0,no,yes,4,4,75,4,1,<1 hour,8.35,8.56,9.65
+Male,19,3,higher education,higher education,at home,other,> 1 hour,0.5,0,no,yes,5,3,80,3,3,<1 hour,8.55,8.59,8.65
+Male,20,5,none,none,at home,,30 min to 1 hour,1,0,no,no,2,4,99,4,4,1 to 5 hours,8.81,9.85,9.85
+Male,19,4,higher education,higher education,at home,other,30 min to 1 hour,2,0,no,no,2,4,93,4,3,1 to 5 hours,8.81,8.81,8.35
+Male,19,5,5th to 9th grade,secondary education,at home,other,> 1 hour,2,1,no,no,2,4,85,3,5,> 5 hours,6.81,6.81,
+Male,19,3,higher education,higher education,other,other,> 1 hour,2,0,no,no,2,4,77,5,5,<1 hour,8.2,8.5,7.2
+Male,19,11,higher education,higher education,at home,other,> 1 hour,4,0,no,yes,3,3,85,4,4,1 to 5 hours,8.7,9.07,9.65
+Male,18,4,higher education,higher education,civil services,civil services,<15 min,3,0,no,yes,3,5,75,4,3,1 to 5 hours,8.7,8.37,9.92
+Male,19,5,higher education,higher education,other,,15 to 30 min,3,1,no,yes,4,4,65,5,3,1 to 5 hours,4.96,5.56,
+Female,19,4,higher education,higher education,at home,other,<15 min,2,2,no,yes,2,4,75,4,4,1 to 5 hours,5.64,,
+Male,19,5,higher education,higher education,at home,civil services,30 min to 1 hour,1.5,0,no,no,1,5,91,4,4,<1 hour,5.63,6.67,6.74
+Male,21,,secondary education,higher education,at home,other,> 1 hour,12,,,yes,1,5,46,5,1,<1 hour,,,8.27
+Male,19,3,secondary education,higher education,at home,,> 1 hour,1,0,no,no,2,4,90,33,,1 to 5 hours,8.85,8.41,9.58
+Male,19,4,primary education (4th grade),higher education,at home,civil services,> 1 hour,4,0,no,yes,2,4,80,4,3,1 to 5 hours,,,6.7
+Female,19,4,higher education,higher education,at home,other,30 min to 1 hour,3,0,no,no,1,4,82,3,3,1 to 5 hours,6.59,6.44,6.73
+Male,20,3,higher education,higher education,at home,other,30 min to 1 hour,2,0,no,yes,3,4,83,4,2,1 to 5 hours,,,8.19
+Male,19,5,higher education,higher education,at home,other,> 1 hour,2,,no,yes,3,4,100,4,1,<1 hour,7.44,7.74,9.69
+Male,19,4,secondary education,secondary education,at home,other,30 min to 1 hour,1,0,no,no,3,5,90,4,4,<1 hour,6.78,7,8
+Male,19,5,secondary education,secondary education,at home,other,30 min to 1 hour,3,,no,no,3,4,85,3,2,1 to 5 hours,6.85,7.26,8
+Male,20,4,higher education,higher education,teacher,health care related,> 1 hour,4,0,yes,yes,3,5,79,4,2,1 to 5 hours,8.74,9.02,8.68
+Male,22,3,secondary education,higher education,at home,other,15 to 30 min,2,0,yes,yes,4,4,85,4,3,1 to 5 hours,9,9.1,9
